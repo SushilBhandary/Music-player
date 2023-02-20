@@ -1,13 +1,5 @@
 # Description
-The website focuses on learning to build webside only with HTML, CSS, JavaScript .
 
-### Things I learned
+## Building..... 
 
-- querySelector
-- addEventListener
-
-## [Live Preview]()
-
-### SnapShot of the Webpage
-
-![StreetStyle]()
+## [Live Preview](https://music-pplayer.netlify.app/)

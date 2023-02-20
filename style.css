@@ -3,3 +3,47 @@
     padding: 0;
     background-color: #b7b3b3;
 }
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 30px;
+    padding: 20px;
+}
+
+.titles{
+    font-size: 25px;
+    padding: 20px;
+}
+
+#music {
+    padding: 20px;
+    font-size: 15px;
+}
+
+.Play{
+    padding: 15px;
+    border-radius: 15px;
+    width: 100px;
+    background-color: #1FAA59;
+}
+
+.Pause{
+    padding: 15px;
+    border-radius: 15px;
+    width: 100px;
+    background-color: #B4161B;
+}
+
